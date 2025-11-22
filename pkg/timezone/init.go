@@ -5,7 +5,7 @@ import "os"
 // init automatically configures the application's timezone when the package is imported.
 //
 // Usage:
-//   import _ "golb/pkg/timezone"  // Blank import triggers init()
+//   import _ "golib/pkg/timezone"  // Blank import triggers init()
 //
 //   func main() {
 //       // Timezone is already set to UTC or APP_TIMEZONE value

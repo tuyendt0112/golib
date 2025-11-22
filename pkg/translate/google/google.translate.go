@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"golb/pkg/translate"
+	"golib/pkg/translate"
 )
 
 // Translator implements the translation.Translator interface using Google Translate API.

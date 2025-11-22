@@ -1,4 +1,4 @@
-module golb
+module golib
 
 go 1.24.1
 

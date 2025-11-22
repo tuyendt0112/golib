@@ -2,7 +2,7 @@ package telegram
 
 import (
 	"fmt"
-	"golb/pkg/https"
+	"golib/pkg/https"
 	"net/url"
 	"time"
 	// NOTE: https package is commented out. You need to implement or uncomment it.
