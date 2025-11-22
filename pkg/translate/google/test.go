@@ -7,8 +7,8 @@ import (
 	"os"
 	"time"
 
-	// "github.com/tranvannghia021/goshared/pkg/translation"
-	// "github.com/tranvannghia021/goshared/pkg/translation/google"
+	translation "github.com/tuyendt0112/golib/pkg/translate"
+	"github.com/tuyendt0112/golib/pkg/translate/google"
 )
 
 func ExampleTranslator_TranslateText() {

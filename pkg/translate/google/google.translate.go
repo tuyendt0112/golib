@@ -9,8 +9,6 @@ import (
 	"net/url"
 	"strings"
 	"time"
-
-	"golib/pkg/translate"
 )
 
 // Translator implements the translation.Translator interface using Google Translate API.
